@@ -1,0 +1,10 @@
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.csproj.AssemblyReference.cache
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.AssemblyInfoInputs.cache
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.AssemblyInfo.cs
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.RazorAssemblyInfo.cache
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.RazorAssemblyInfo.cs
+C:\Users\abdal\OneDrive\Documents\ToDoApplication\ToDoApplication\obj\Debug\net8.0\ToDoApplication.sourcelink.json
